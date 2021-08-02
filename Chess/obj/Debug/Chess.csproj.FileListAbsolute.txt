@@ -1,0 +1,86 @@
+C:\Users\Tomcii\source\repos\Chess\Chess\bin\Debug\Chess.exe.config
+C:\Users\Tomcii\source\repos\Chess\Chess\bin\Debug\Chess.exe
+C:\Users\Tomcii\source\repos\Chess\Chess\bin\Debug\Chess.pdb
+C:\Users\Tomcii\source\repos\Chess\Chess\obj\Debug\Chess.csprojAssemblyReference.cache
+C:\Users\Tomcii\source\repos\Chess\Chess\obj\Debug\View\MainWindow.g.cs
+C:\Users\Tomcii\source\repos\Chess\Chess\obj\Debug\App.g.cs
+C:\Users\Tomcii\source\repos\Chess\Chess\obj\Debug\Chess_MarkupCompile.cache
+C:\Users\Tomcii\source\repos\Chess\Chess\obj\Debug\Chess_MarkupCompile.lref
+C:\Users\Tomcii\source\repos\Chess\Chess\obj\Debug\View\MainWindow.baml
+C:\Users\Tomcii\source\repos\Chess\Chess\obj\Debug\Chess.g.resources
+C:\Users\Tomcii\source\repos\Chess\Chess\obj\Debug\Chess.Properties.Resources.resources
+C:\Users\Tomcii\source\repos\Chess\Chess\obj\Debug\Chess.csproj.GenerateResource.cache
+C:\Users\Tomcii\source\repos\Chess\Chess\obj\Debug\Chess.csproj.CoreCompileInputs.cache
+C:\Users\Tomcii\source\repos\Chess\Chess\obj\Debug\Chess.exe
+C:\Users\Tomcii\source\repos\Chess\Chess\obj\Debug\Chess.pdb
+C:\Users\Tomcii\source\repos\Chess\Chess\obj\Debug\View\Menu.g.cs
+C:\Users\Tomcii\source\repos\Chess\Chess\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Tomcii\source\repos\Chess\Chess\obj\Debug\View\Menu.baml
+C:\Users\Tomcii\Desktop\Chess\Chess\bin\Debug\Chess.exe.config
+C:\Users\Tomcii\Desktop\Chess\Chess\bin\Debug\Chess.exe
+C:\Users\Tomcii\Desktop\Chess\Chess\bin\Debug\Chess.pdb
+C:\Users\Tomcii\Desktop\Chess\Chess\obj\Debug\View\MainWindow.g.cs
+C:\Users\Tomcii\Desktop\Chess\Chess\obj\Debug\App.g.cs
+C:\Users\Tomcii\Desktop\Chess\Chess\obj\Debug\Chess_MarkupCompile.cache
+C:\Users\Tomcii\Desktop\Chess\Chess\obj\Debug\Chess_MarkupCompile.lref
+C:\Users\Tomcii\Desktop\Chess\Chess\obj\Debug\View\MainWindow.baml
+C:\Users\Tomcii\Desktop\Chess\Chess\obj\Debug\Chess.g.resources
+C:\Users\Tomcii\Desktop\Chess\Chess\obj\Debug\Chess.Properties.Resources.resources
+C:\Users\Tomcii\Desktop\Chess\Chess\obj\Debug\Chess.csproj.GenerateResource.cache
+C:\Users\Tomcii\Desktop\Chess\Chess\obj\Debug\Chess.csproj.CoreCompileInputs.cache
+C:\Users\Tomcii\Desktop\Chess\Chess\obj\Debug\Chess.exe
+C:\Users\Tomcii\Desktop\Chess\Chess\obj\Debug\Chess.pdb
+C:\Users\Tomcii\Desktop\Chess\Chess\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Tomcii\Desktop\Chess\Chess\obj\Debug\View\ChessBoardBackground.g.cs
+C:\Users\Tomcii\Desktop\Chess\Chess\obj\Debug\View\ChessBoardBackground.baml
+C:\Users\Tomcii\Desktop\Chess\Chess\obj\Debug\View\Menu.g.cs
+C:\Users\Tomcii\Desktop\Chess\Chess\obj\Debug\View\Menu.baml
+C:\Users\Tomcii\Desktop\Chess\Chess\obj\Debug\View\ChessPieceImages.g.cs
+C:\Users\Tomcii\Desktop\Chess\Chess\obj\Debug\View\ChessPieceImages.baml
+C:\Users\Tomcii\Desktop\Chess\Chess\obj\Debug\View\ChessGraveyard.g.cs
+C:\Users\Tomcii\Desktop\Chess\Chess\obj\Debug\View\ChessGraveyard.baml
+C:\Users\Tomcii\Desktop\Chess\Chess\obj\Debug\View\PossibleMoves.g.cs
+C:\Users\Tomcii\Desktop\Chess\Chess\obj\Debug\View\PossibleMoves.baml
+C:\Users\Tomcii\Desktop\Chess\Chess\obj\Debug\View\ChessBoardButtons.g.cs
+C:\Users\Tomcii\Desktop\Chess\Chess\obj\Debug\View\InCheckSignal.g.cs
+C:\Users\Tomcii\Desktop\Chess\Chess\obj\Debug\View\ChessBoardButtons.baml
+C:\Users\Tomcii\Desktop\Chess\Chess\obj\Debug\View\InCheckSignal.baml
+C:\Users\Tomcii\Desktop\Chess\Chess\obj\Debug\View\ChessBoardColumnBorder.g.cs
+C:\Users\Tomcii\Desktop\Chess\Chess\obj\Debug\View\ChessBoardRowBorder.g.cs
+C:\Users\Tomcii\Desktop\Chess\Chess\obj\Debug\View\ChessBoardColumnBorder.baml
+C:\Users\Tomcii\Desktop\Chess\Chess\obj\Debug\View\ChessBoardRowBorder.baml
+C:\Users\Tomcii\Desktop\Chess\Chess\obj\Debug\Chess.csprojAssemblyReference.cache
+C:\Users\Tomcii\Desktop\New folder\Chess\Chess\bin\Debug\Chess.exe.config
+C:\Users\Tomcii\Desktop\New folder\Chess\Chess\bin\Debug\Chess.exe
+C:\Users\Tomcii\Desktop\New folder\Chess\Chess\bin\Debug\Chess.pdb
+C:\Users\Tomcii\Desktop\New folder\Chess\Chess\obj\Debug\Chess.csprojAssemblyReference.cache
+C:\Users\Tomcii\Desktop\New folder\Chess\Chess\obj\Debug\View\ChessBoardColumnBorder.g.cs
+C:\Users\Tomcii\Desktop\New folder\Chess\Chess\obj\Debug\View\ChessBoardRowBorder.g.cs
+C:\Users\Tomcii\Desktop\New folder\Chess\Chess\obj\Debug\View\ChessBoardButtons.g.cs
+C:\Users\Tomcii\Desktop\New folder\Chess\Chess\obj\Debug\View\ChessBoardBackground.g.cs
+C:\Users\Tomcii\Desktop\New folder\Chess\Chess\obj\Debug\View\ChessGraveyard.g.cs
+C:\Users\Tomcii\Desktop\New folder\Chess\Chess\obj\Debug\View\ChessPieceImages.g.cs
+C:\Users\Tomcii\Desktop\New folder\Chess\Chess\obj\Debug\View\InCheckSignal.g.cs
+C:\Users\Tomcii\Desktop\New folder\Chess\Chess\obj\Debug\View\MainWindow.g.cs
+C:\Users\Tomcii\Desktop\New folder\Chess\Chess\obj\Debug\View\Menu.g.cs
+C:\Users\Tomcii\Desktop\New folder\Chess\Chess\obj\Debug\View\PossibleMoves.g.cs
+C:\Users\Tomcii\Desktop\New folder\Chess\Chess\obj\Debug\App.g.cs
+C:\Users\Tomcii\Desktop\New folder\Chess\Chess\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Tomcii\Desktop\New folder\Chess\Chess\obj\Debug\Chess_MarkupCompile.cache
+C:\Users\Tomcii\Desktop\New folder\Chess\Chess\obj\Debug\Chess_MarkupCompile.lref
+C:\Users\Tomcii\Desktop\New folder\Chess\Chess\obj\Debug\View\ChessBoardColumnBorder.baml
+C:\Users\Tomcii\Desktop\New folder\Chess\Chess\obj\Debug\View\ChessBoardRowBorder.baml
+C:\Users\Tomcii\Desktop\New folder\Chess\Chess\obj\Debug\View\ChessBoardButtons.baml
+C:\Users\Tomcii\Desktop\New folder\Chess\Chess\obj\Debug\View\ChessBoardBackground.baml
+C:\Users\Tomcii\Desktop\New folder\Chess\Chess\obj\Debug\View\ChessGraveyard.baml
+C:\Users\Tomcii\Desktop\New folder\Chess\Chess\obj\Debug\View\ChessPieceImages.baml
+C:\Users\Tomcii\Desktop\New folder\Chess\Chess\obj\Debug\View\InCheckSignal.baml
+C:\Users\Tomcii\Desktop\New folder\Chess\Chess\obj\Debug\View\MainWindow.baml
+C:\Users\Tomcii\Desktop\New folder\Chess\Chess\obj\Debug\View\Menu.baml
+C:\Users\Tomcii\Desktop\New folder\Chess\Chess\obj\Debug\View\PossibleMoves.baml
+C:\Users\Tomcii\Desktop\New folder\Chess\Chess\obj\Debug\Chess.g.resources
+C:\Users\Tomcii\Desktop\New folder\Chess\Chess\obj\Debug\Chess.Properties.Resources.resources
+C:\Users\Tomcii\Desktop\New folder\Chess\Chess\obj\Debug\Chess.csproj.GenerateResource.cache
+C:\Users\Tomcii\Desktop\New folder\Chess\Chess\obj\Debug\Chess.csproj.CoreCompileInputs.cache
+C:\Users\Tomcii\Desktop\New folder\Chess\Chess\obj\Debug\Chess.exe
+C:\Users\Tomcii\Desktop\New folder\Chess\Chess\obj\Debug\Chess.pdb
